@@ -1,5 +1,7 @@
 # Stock-Market-Sector-Recovery-Analysis
 
+> Inspired by 2020 Covid market crash
+
 ![Example Comparision ScreenShot](https://github.com/Naharul98/Stock-Market-Crash-Recovery-Analysis/blob/main/Screenshots/Sample-comparison.jpg?raw=true)
 
 ## Project Demo
