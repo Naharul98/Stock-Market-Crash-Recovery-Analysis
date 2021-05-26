@@ -1,6 +1,6 @@
 # Stock-Market-Sector-Recovery-Analysis
 
-[![Example Comparision ScreenShot][project-screenshot]](https://github.com/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Screenshots/Sample-comparison.jpg)
+![Example Comparision ScreenShot](https://github.com/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Screenshots/Sample-comparison.jpg?raw=true)
 
 ## Project Demo
 
