@@ -4,9 +4,11 @@
 
 ## Project Demo
 
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Data Retrieval and Preprocessing](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Data-Retrieval-And-Preprocessing.ipynb)
+* [Visualization of performance comparision between sectors of FTSE 100](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Visualization-of-Performance-comparison---sector-to-index---during-crash.ipynb)
+* [Performance comparison of a given sector to overall index](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Performance-comparison-of-individual-sector-to-index.ipynb)
+* [Performance comparision of Stocks at peak of crash to infex](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Performance-of-stocks-at-peak-of-crash-relative-to-index.ipynb)
+
 
 ## About The Project
 
