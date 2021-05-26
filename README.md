@@ -5,9 +5,9 @@
 ## Project Demo
 
 * [Data Retrieval and Preprocessing](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Data-Retrieval-And-Preprocessing.ipynb)
-* [Visualization of performance comparision between sectors of FTSE 100](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Visualization-of-Performance-comparison---sector-to-index---during-crash.ipynb)
-* [Performance comparison of a given sector to overall index](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Performance-comparison-of-individual-sector-to-index.ipynb)
-* [Performance comparision of Stocks at peak of crash to infex](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Performance-of-stocks-at-peak-of-crash-relative-to-index.ipynb)
+* [Visualization of performance comparision between all sectors within FTSE 100](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Visualization-of-Performance-comparison---sector-to-index---during-crash.ipynb)
+* [Performance comparision at peak of crash](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Performance-of-stocks-at-peak-of-crash-relative-to-index.ipynb)
+* [Performance comparison of any given individual sector within FTSE100](https://nbviewer.jupyter.org/github/Naharul98/Stock-Market-Sector-Recovery-Analysis/blob/main/Performance-comparison-of-individual-sector-to-index.ipynb)
 
 
 ## About The Project
