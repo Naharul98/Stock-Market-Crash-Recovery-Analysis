@@ -12,7 +12,7 @@
 
 The project aims to compare which sectors within the FTSE100 index recover and outperform the index in the aftermath of a market crash. 
 
-The following are compared with each other:
+The following are compared with each other during period of a market crash:
 * Index -> Raw price performance of all stocks which make up FTSE 100
 * Sector -> This represents overall raw price performance of stocks in a particular industry (e.g: tech, financial services etc) within the FTSE 100
 * Individual stock -> Raw price performance of the individual stock within the sector
